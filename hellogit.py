@@ -6,3 +6,5 @@ print("ayuda")
 print("xd")
 
 print("todo good")
+
+print("Me parece que todo est bien")
