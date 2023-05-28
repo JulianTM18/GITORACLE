@@ -1,7 +1,7 @@
 print("Hola mundo como estas")
 print("Muy buen segunda linea")
 
-print("Hola como estais")
+print("Hola como estas bien y tu?")
 print("ayuda")
 print("xd")
 
