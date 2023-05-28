@@ -1,4 +1,4 @@
-print("Hola mundo como estas")
+print("Hola mundo como esta")
 print("Muy buen segunda linea")
 
 print("Hola como estas bien y tu?")
@@ -7,14 +7,7 @@ print("xd")
 
 print("Todo good para todos")
 
-print("Me parece que todo esta bien")
-print("claro todo")
 
+print("Me parece que todo est bien")
 
-
-
-print("hola como estas")
-print("hola como estas")
-print("¿Bien y tu?")
-print("¿Bien y tu?")
-print("claro todo")
+print("Este es un texto desde lista")
