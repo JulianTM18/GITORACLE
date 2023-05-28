@@ -5,6 +5,6 @@ print("Hola como estas bien y tu?")
 print("ayuda")
 print("xd")
 
-print("Todo good para todos")
+print("Todo good")
 
-print("Me parece que todo est bien")
+print("Me parece que todo esta bien")
