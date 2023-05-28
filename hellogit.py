@@ -8,6 +8,6 @@ print("xd")
 print("Todo good para todos")
 
 
-print("Me parece que todo est bien: infraestructura")
+print("Me parece que todo est bien")
 
 print("Este es un texto desde lista")
