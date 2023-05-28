@@ -1,4 +1,4 @@
-print("Hola mundo como estas")
+print("Hola mundo como esta")
 print("Muy buen segunda linea")
 
 print("Hola como estas bien y tu?")
